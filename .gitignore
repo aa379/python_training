@@ -1,0 +1,9 @@
+# 忽略 Python 執行時自動產生的快取檔案與資料夾
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 VS Code 的個人設定與環境變數
+.vscode/
+.env
