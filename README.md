@@ -18,8 +18,3 @@
 持續刷題維持手感，把 Python 的基礎與語法打穩。
 之後打算學習怎麼串接 LLM 的 API。
 擴展技能樹，學習機器學習 (Machine Learning) 與自然語言處理 (NLP) 等核心領域。
-
-```text
-python_training/
-├── YYYY-MM-DD/  # 每日解題紀錄與筆記
-└── README.md
